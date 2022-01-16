@@ -10,6 +10,11 @@
 - Having just once example not multible to less confuse stuff
 - Agrement to similar word usage (exampl. diff/patch)
 
+
+# Questions:
+- structure of the file(s) okay?
+- missing stuff?
+
 # Proposed structure
 
 ## Generell information about the infrastuctur we are using (link to another file?)
