@@ -19,6 +19,7 @@
 
 ## Generell information about the infrastuctur we are using (link to another file?)
 - solbuild
+   - abi-wizard
 - common
 - phabricator
    - Repo
@@ -93,6 +94,8 @@
    - Check if on the correct commit
 - Creating the diff
 - Submitting for Review
+   - Correct Changelog
+   - Test plan (not only Unit tests)
 - Submitting stacks
 - Updating Task Information
 
