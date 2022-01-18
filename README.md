@@ -32,8 +32,10 @@
 ### Beginner set up for packaging
 
 - Setting up Packager file
+- Switch to the unstable repo
 - Setting up solbuild
    - update solbuild
+   - delete solbuild cache/all cache
 - Setting up common
    - update common file
 
