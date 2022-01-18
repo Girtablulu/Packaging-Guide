@@ -72,6 +72,7 @@
    - tmp files
 - Patterns
 - Replace/rename
+- optimize values
 - How to use a patch
    - command %patch
    - command %apply_patches
